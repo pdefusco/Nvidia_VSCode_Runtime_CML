@@ -137,7 +137,7 @@ If you are using CML for Deep Learning here are some more examples you may find 
 
 * [CML LLM Hands on Lab](https://github.com/SuperEllipse/CML-LLM-HOL-Workshop)
 * [LLM Demo in CML](https://github.com/SuperEllipse/LLM-demo-on-CML)
-* [How to Launch an Applied Machine Learning Prototype in CML](https://docs.cloudera.com/machine-learning/cloud/applied-ml-prototypes/topics/ml-amps-overview.html)
+* [How to Launch an Applied Machine Learning Prototype (AMP) in CML](https://docs.cloudera.com/machine-learning/cloud/applied-ml-prototypes/topics/ml-amps-overview.html)
 * [AMP: Intelligent QA Chatbot with NiFi, Pinecone, and Llama2](https://github.com/cloudera/CML_AMP_Intelligent-QA-Chatbot-with-NiFi-Pinecone-and-Llama2)
 * [AMP: Text Summarization and more with Amazon Bedrock](https://github.com/cloudera/CML_AMP_AI_Text_Summarization_with_Amazon_Bedrock)
 * [AMP: Fine-Tuning a Foundation Model for Multiple Tasks (with QLoRA)](https://github.com/cloudera/CML_AMP_Finetune_Foundation_Model_Multiple_Tasks)
