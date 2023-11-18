@@ -133,7 +133,7 @@ Cloudera ML Runtimes are a set of Docker images created to enable machine learni
 
 You can create custom CML Runtimes by extending the Cloudera Machine Learning base runtimes, PBJ and open runtimes available in [this git repository](https://github.com/cloudera/ml-runtimes) as we have done in this example; or create your own from scratch as shown [in this example](https://github.com/cloudera/ml-runtimes/blob/public-runtimes/pbj-workbench-python3.10-cuda.Dockerfile).
 
-If you are using CML for Deep Learning here are some more examples you may find interesting:
+If you are using CML for Deep Learning, GenAI and LLM use cases here are some more examples you may find interesting:
 
 * [CML LLM Hands on Lab](https://github.com/SuperEllipse/CML-LLM-HOL-Workshop)
 * [LLM Demo in CML](https://github.com/SuperEllipse/LLM-demo-on-CML)
