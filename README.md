@@ -1,4 +1,4 @@
-# CML Runtime with Nvidia and VSCode
+# CML Runtime with Nvidia Libs and VSCode Editor
 
 This repository contains basic instructions for creating and deploying a Custom Runtime with VS Code and Nvidia libraries to your CML Workspace. With this runtime you can increase your productivity when developing your deep learning use cases in CML Sessions. This example is also valid for CDSW clusters.
 
