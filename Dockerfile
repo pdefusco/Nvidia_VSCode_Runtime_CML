@@ -52,7 +52,6 @@ RUN apt update && apt upgrade -y && apt clean && rm -rf /var/lib/apt/lists/*
 # Install latest version. See https://github.com/coder/code-server/blob/main/install.sh for details
 RUN curl -fsSL https://code-server.dev/install.sh | sh -s --  --version 4.16.1
 
-
 # Create launch script and symlink to the default editor launcher
 RUN printf "#!/bin/bash\n/usr/bin/code-server --auth=none --bind-addr=127.0.0.1:8090 --disable-telemetry" > /usr/local/bin/vscode
 
